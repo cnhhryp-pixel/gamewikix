@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://gamewikix.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://gamewikix.com/games/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/guides/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/builds/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/database/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/tools/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/tools/random-loadout/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/search/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://gamewikix.com/games/minecraft/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/games/fortnite/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/games/elden-ring/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/games/genshin-impact/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/games/roblox/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://gamewikix.com/games/baldurs-gate-3/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
