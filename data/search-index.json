@@ -65,8 +65,7 @@
       "Roblox",
       "Platform",
       "wiki",
-      "guide",
-      "build"
+      "guide"
     ]
   },
   {
@@ -79,6 +78,98 @@
       "wiki",
       "guide",
       "build"
+    ]
+  },
+  {
+    "title": "Minecraft Survival Progression Checklist",
+    "description": "A practical path from first-night survival to stable long-term systems.",
+    "url": "/games/minecraft/survival-progression-checklist/",
+    "tags": [
+      "minecraft",
+      "survival",
+      "progression",
+      "checklist",
+      "beginner"
+    ]
+  },
+  {
+    "title": "Minecraft Resource Priority Guide",
+    "description": "Decide what to gather first by the problem each resource solves.",
+    "url": "/games/minecraft/resource-priority-guide/",
+    "tags": [
+      "minecraft",
+      "resources",
+      "priority",
+      "survival"
+    ]
+  },
+  {
+    "title": "Fortnite Practice Routine",
+    "description": "Split improvement into mechanics, fights, matches and review.",
+    "url": "/games/fortnite/practice-routine/",
+    "tags": [
+      "fortnite",
+      "practice",
+      "aim",
+      "movement",
+      "improve"
+    ]
+  },
+  {
+    "title": "Fortnite Loadout Roles Guide",
+    "description": "Plan loadouts by combat, healing, mobility and utility roles.",
+    "url": "/games/fortnite/loadout-roles-guide/",
+    "tags": [
+      "fortnite",
+      "loadout",
+      "weapons",
+      "healing",
+      "mobility"
+    ]
+  },
+  {
+    "title": "How to Find Good Roblox Games",
+    "description": "Find experiences that match your preferred genre, progression and session length.",
+    "url": "/games/roblox/find-good-games/",
+    "tags": [
+      "roblox",
+      "games",
+      "experiences",
+      "discovery"
+    ]
+  },
+  {
+    "title": "Roblox Progression Guide",
+    "description": "Understand currencies, upgrades, bottlenecks and repeatable loops.",
+    "url": "/games/roblox/progression-guide/",
+    "tags": [
+      "roblox",
+      "progression",
+      "currency",
+      "upgrades"
+    ]
+  },
+  {
+    "title": "Elden Ring Build Planning Guide",
+    "description": "Balance requirements, damage, survivability and utility.",
+    "url": "/games/elden-ring/build-planning-guide/",
+    "tags": [
+      "elden ring",
+      "build",
+      "stats",
+      "weapons",
+      "beginner"
+    ]
+  },
+  {
+    "title": "Elden Ring Boss Preparation Checklist",
+    "description": "Prepare gear, resources and a clear plan before serious attempts.",
+    "url": "/games/elden-ring/boss-preparation-checklist/",
+    "tags": [
+      "elden ring",
+      "boss",
+      "checklist",
+      "preparation"
     ]
   },
   {
