@@ -1,0 +1,131 @@
+[
+  {
+    "title": "GameWikiX",
+    "description": "Game wikis, guides, builds, databases and tools.",
+    "url": "/",
+    "tags": [
+      "game",
+      "wiki",
+      "guide"
+    ]
+  },
+  {
+    "title": "Minecraft Wiki & Guides",
+    "description": "Survival progression, crafting, enchantments, farms and resource planning.",
+    "url": "/games/minecraft/",
+    "tags": [
+      "Minecraft",
+      "Sandbox",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Fortnite Wiki & Guides",
+    "description": "Practice routines, loadout logic, mechanics and match decision-making.",
+    "url": "/games/fortnite/",
+    "tags": [
+      "Fortnite",
+      "Battle Royale",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Elden Ring Wiki & Guides",
+    "description": "Build planning, stats, upgrades, exploration and combat preparation.",
+    "url": "/games/elden-ring/",
+    "tags": [
+      "Elden Ring",
+      "Action RPG",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Genshin Impact Wiki & Guides",
+    "description": "Character planning, teams, resources and account progression.",
+    "url": "/games/genshin-impact/",
+    "tags": [
+      "Genshin Impact",
+      "Action RPG",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Roblox Wiki & Guides",
+    "description": "Practical guides and reference notes for popular Roblox experiences.",
+    "url": "/games/roblox/",
+    "tags": [
+      "Roblox",
+      "Platform",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Wiki & Guides",
+    "description": "Party planning, class concepts, quests and systems with spoiler-aware notes.",
+    "url": "/games/baldurs-gate-3/",
+    "tags": [
+      "Baldur's Gate 3",
+      "CRPG",
+      "wiki",
+      "guide",
+      "build"
+    ]
+  },
+  {
+    "title": "Guides",
+    "description": "Practical game guides and progression help.",
+    "url": "/guides/",
+    "tags": [
+      "guide",
+      "walkthrough"
+    ]
+  },
+  {
+    "title": "Builds",
+    "description": "Build and loadout planning references.",
+    "url": "/builds/",
+    "tags": [
+      "build",
+      "loadout"
+    ]
+  },
+  {
+    "title": "Database",
+    "description": "Structured game reference pages.",
+    "url": "/database/",
+    "tags": [
+      "database",
+      "items",
+      "reference"
+    ]
+  },
+  {
+    "title": "Tools",
+    "description": "Browser-based player tools.",
+    "url": "/tools/",
+    "tags": [
+      "tools",
+      "generator"
+    ]
+  },
+  {
+    "title": "Random Loadout Generator",
+    "description": "Generate challenge loadouts.",
+    "url": "/tools/random-loadout/",
+    "tags": [
+      "random",
+      "loadout",
+      "tool"
+    ]
+  }
+]
