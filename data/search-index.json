@@ -1043,5 +1043,105 @@
       "enchantments",
       "reference"
     ]
+  },
+  {
+    "title": "Blox Fruits Playstyle Guide",
+    "description": "Choose a focused Blox Fruits playstyle based on range, mobility, consistency and the fights you want to handle.",
+    "url": "/games/roblox/blox-fruits/playstyle-guide/",
+    "tags": [
+      "blox fruits",
+      "playstyle",
+      "roblox",
+      "guide"
+    ]
+  },
+  {
+    "title": "Blox Fruits Boss Preparation Guide",
+    "description": "Prepare for Blox Fruits boss fights with repeatable damage, survivability and movement.",
+    "url": "/games/roblox/blox-fruits/boss-preparation/",
+    "tags": [
+      "blox fruits",
+      "boss",
+      "preparation",
+      "roblox"
+    ]
+  },
+  {
+    "title": "RIVALS Positioning Guide",
+    "description": "Improve Roblox RIVALS positioning with better cover, angles, spacing and escape routes.",
+    "url": "/games/roblox/rivals/positioning-guide/",
+    "tags": [
+      "rivals",
+      "positioning",
+      "roblox",
+      "fps"
+    ]
+  },
+  {
+    "title": "RIVALS Weapon Role Guide",
+    "description": "Think about RIVALS weapons by range, combat role and repeatability instead of a single best pick.",
+    "url": "/games/roblox/rivals/weapon-role-guide/",
+    "tags": [
+      "rivals",
+      "weapon roles",
+      "roblox",
+      "fps"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest Resource Priorities",
+    "description": "Prioritize immediate survival, camp stability and longer-term progression resources.",
+    "url": "/games/roblox/99-nights-in-the-forest/resource-priorities/",
+    "tags": [
+      "99 nights in the forest",
+      "resources",
+      "survival",
+      "roblox"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest Team Role Guide",
+    "description": "Organize gathering, camp work, exploration and flexible support roles.",
+    "url": "/games/roblox/99-nights-in-the-forest/team-role-guide/",
+    "tags": [
+      "99 nights in the forest",
+      "team roles",
+      "roblox",
+      "survival"
+    ]
+  },
+  {
+    "title": "Minecraft Brewing Basics",
+    "description": "Minecraft brewing basics for potion planning, ingredients, utility and when brewing is worth the effort.",
+    "url": "/games/minecraft/brewing-basics/",
+    "tags": [
+      "minecraft",
+      "brewing",
+      "potions",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft The End Preparation Guide",
+    "description": "Prepare for Minecraft's End dimension with equipment, supplies, movement and return planning.",
+    "url": "/games/minecraft/the-end-preparation/",
+    "tags": [
+      "minecraft",
+      "the end",
+      "preparation",
+      "guide"
+    ]
+  },
+  {
+    "title": "Minecraft Villager Professions Overview",
+    "description": "Minecraft villager professions, job roles, trade categories and long-term trading setup.",
+    "url": "/games/minecraft/villager-professions/",
+    "tags": [
+      "minecraft",
+      "villagers",
+      "professions",
+      "trading",
+      "reference"
+    ]
   }
 ]
