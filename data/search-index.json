@@ -526,5 +526,71 @@
       "elements",
       "reference"
     ]
+  },
+  {
+    "title": "Minecraft Early Farming Guide",
+    "description": "Build a reliable early Minecraft food loop and choose simple farms that reduce survival friction.",
+    "url": "/games/minecraft/early-farming-guide/",
+    "tags": [
+      "minecraft",
+      "farming",
+      "food",
+      "beginner"
+    ]
+  },
+  {
+    "title": "Fortnite Decision Making Guide",
+    "description": "Improve Fortnite decisions by reading information, position, resources and fight quality before committing.",
+    "url": "/games/fortnite/decision-making-guide/",
+    "tags": [
+      "fortnite",
+      "decision making",
+      "positioning",
+      "strategy"
+    ]
+  },
+  {
+    "title": "Roblox Session Goals Guide",
+    "description": "Use clear session goals in Roblox progression experiences to avoid unfocused grinding and wasted resources.",
+    "url": "/games/roblox/session-goals-guide/",
+    "tags": [
+      "roblox",
+      "goals",
+      "progression",
+      "grind"
+    ]
+  },
+  {
+    "title": "Elden Ring Stamina Management Guide",
+    "description": "Manage Elden Ring stamina around attacks, defense, movement and recovery windows.",
+    "url": "/games/elden-ring/stamina-management-guide/",
+    "tags": [
+      "elden ring",
+      "stamina",
+      "combat",
+      "guide"
+    ]
+  },
+  {
+    "title": "Genshin Impact Energy Rotation Guide",
+    "description": "Plan Genshin Impact rotations around energy generation, burst timing and repeatable team loops.",
+    "url": "/games/genshin-impact/energy-rotation-guide/",
+    "tags": [
+      "genshin impact",
+      "energy",
+      "rotation",
+      "team"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Action Economy Guide",
+    "description": "Understand Baldur's Gate 3 action economy by valuing actions, bonus actions, reactions and positioning.",
+    "url": "/games/baldurs-gate-3/action-economy-guide/",
+    "tags": [
+      "baldur's gate 3",
+      "action economy",
+      "combat",
+      "guide"
+    ]
   }
 ]
