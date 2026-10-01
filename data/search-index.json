@@ -394,5 +394,137 @@
       "preparation",
       "guide"
     ]
+  },
+  {
+    "title": "Minecraft Enchantments Overview",
+    "description": "Minecraft enchantment categories for tools, weapons, armor and utility.",
+    "url": "/games/minecraft/enchantments/",
+    "tags": [
+      "minecraft",
+      "enchantments",
+      "reference",
+      "tools",
+      "armor"
+    ]
+  },
+  {
+    "title": "Minecraft Biomes Overview",
+    "description": "Minecraft biome reference for terrain, resources, travel and base planning.",
+    "url": "/games/minecraft/biomes/",
+    "tags": [
+      "minecraft",
+      "biomes",
+      "terrain",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Mobs Overview",
+    "description": "Minecraft mobs grouped by behavior, danger and player interaction.",
+    "url": "/games/minecraft/mobs/",
+    "tags": [
+      "minecraft",
+      "mobs",
+      "hostile",
+      "passive",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Food Overview",
+    "description": "Minecraft food reference focused on survival reliability and long-term supply.",
+    "url": "/games/minecraft/food/",
+    "tags": [
+      "minecraft",
+      "food",
+      "survival",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Tools Overview",
+    "description": "Minecraft tools reference covering gathering, building, farming and utility roles.",
+    "url": "/games/minecraft/tools/",
+    "tags": [
+      "minecraft",
+      "tools",
+      "mining",
+      "reference"
+    ]
+  },
+  {
+    "title": "Elden Ring Stats Overview",
+    "description": "Elden Ring stats reference for requirements, survivability, resources and scaling.",
+    "url": "/games/elden-ring/stats/",
+    "tags": [
+      "elden ring",
+      "stats",
+      "attributes",
+      "reference"
+    ]
+  },
+  {
+    "title": "Elden Ring Weapon Types Overview",
+    "description": "Elden Ring weapon types reference focused on reach, speed, movesets and build fit.",
+    "url": "/games/elden-ring/weapon-types/",
+    "tags": [
+      "elden ring",
+      "weapons",
+      "weapon types",
+      "reference"
+    ]
+  },
+  {
+    "title": "Elden Ring Damage Types Overview",
+    "description": "Elden Ring damage types overview and matchup considerations.",
+    "url": "/games/elden-ring/damage-types/",
+    "tags": [
+      "elden ring",
+      "damage types",
+      "reference"
+    ]
+  },
+  {
+    "title": "Elden Ring Status Effects Overview",
+    "description": "Elden Ring status effects overview focused on buildup and matchup consistency.",
+    "url": "/games/elden-ring/status-effects/",
+    "tags": [
+      "elden ring",
+      "status effects",
+      "buildup",
+      "reference"
+    ]
+  },
+  {
+    "title": "Genshin Impact Elements Overview",
+    "description": "Genshin Impact elements overview focused on team interactions and application.",
+    "url": "/games/genshin-impact/elements/",
+    "tags": [
+      "genshin impact",
+      "elements",
+      "reference"
+    ]
+  },
+  {
+    "title": "Genshin Impact Team Roles Overview",
+    "description": "Genshin Impact team roles reference covering damage, support, sustain and utility.",
+    "url": "/games/genshin-impact/roles/",
+    "tags": [
+      "genshin impact",
+      "roles",
+      "team",
+      "reference"
+    ]
+  },
+  {
+    "title": "Genshin Impact Reactions Overview",
+    "description": "Genshin Impact elemental reactions overview focused on repeatable team rotations.",
+    "url": "/games/genshin-impact/reactions/",
+    "tags": [
+      "genshin impact",
+      "reactions",
+      "elements",
+      "reference"
+    ]
   }
 ]
