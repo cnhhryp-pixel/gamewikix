@@ -592,5 +592,101 @@
       "combat",
       "guide"
     ]
+  },
+  {
+    "title": "Fortnite Combat Roles Overview",
+    "description": "Close-range, mid-range, recovery, mobility and utility roles.",
+    "url": "/games/fortnite/combat-roles/",
+    "tags": [
+      "fortnite",
+      "combat roles",
+      "loadout",
+      "reference"
+    ]
+  },
+  {
+    "title": "Fortnite Match Phases Overview",
+    "description": "How priorities shift from early setup to mid-game rotations and late survival.",
+    "url": "/games/fortnite/match-phases/",
+    "tags": [
+      "fortnite",
+      "match phases",
+      "rotation",
+      "reference"
+    ]
+  },
+  {
+    "title": "Fortnite Mobility & Utility Overview",
+    "description": "Repositioning, information and situational tools in Fortnite.",
+    "url": "/games/fortnite/mobility-utility/",
+    "tags": [
+      "fortnite",
+      "mobility",
+      "utility",
+      "reference"
+    ]
+  },
+  {
+    "title": "Roblox Progression Systems Overview",
+    "description": "Core loops, unlocks, quests and long-term progression systems.",
+    "url": "/games/roblox/progression-systems/",
+    "tags": [
+      "roblox",
+      "progression systems",
+      "reference"
+    ]
+  },
+  {
+    "title": "Roblox Currency Systems Overview",
+    "description": "Common, rare and upgrade-linked currency systems.",
+    "url": "/games/roblox/currency-systems/",
+    "tags": [
+      "roblox",
+      "currency",
+      "resources",
+      "reference"
+    ]
+  },
+  {
+    "title": "Roblox Upgrade Systems Overview",
+    "description": "Power, capacity, speed, access and quality-of-life upgrades.",
+    "url": "/games/roblox/upgrade-systems/",
+    "tags": [
+      "roblox",
+      "upgrades",
+      "progression",
+      "reference"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Party Roles Overview",
+    "description": "Damage, control, support, sustain and exploration roles.",
+    "url": "/games/baldurs-gate-3/party-roles/",
+    "tags": [
+      "baldur's gate 3",
+      "party roles",
+      "reference"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Combat Resources Overview",
+    "description": "Limited abilities, spell use, recovery and encounter pacing.",
+    "url": "/games/baldurs-gate-3/combat-resources/",
+    "tags": [
+      "baldur's gate 3",
+      "combat resources",
+      "reference"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Exploration Skills Overview",
+    "description": "Dialogue, locks, traps, perception and movement coverage.",
+    "url": "/games/baldurs-gate-3/exploration-skills/",
+    "tags": [
+      "baldur's gate 3",
+      "exploration",
+      "skills",
+      "reference"
+    ]
   }
 ]
