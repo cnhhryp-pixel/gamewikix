@@ -712,5 +712,171 @@
       "goal",
       "tool"
     ]
+  },
+  {
+    "title": "Upgrade Priority Calculator",
+    "description": "Compare game upgrades using impact, cost and frequency.",
+    "url": "/tools/upgrade-priority-calculator/",
+    "tags": [
+      "upgrade",
+      "priority",
+      "calculator",
+      "tool"
+    ]
+  },
+  {
+    "title": "Resource Goal Planner",
+    "description": "Estimate farming runs and time needed to reach a resource target.",
+    "url": "/tools/resource-goal-planner/",
+    "tags": [
+      "resource",
+      "goal",
+      "planner",
+      "farming",
+      "tool"
+    ]
+  },
+  {
+    "title": "Game Checklist Builder",
+    "description": "Build a clickable custom game checklist in your browser.",
+    "url": "/tools/checklist-builder/",
+    "tags": [
+      "checklist",
+      "builder",
+      "game",
+      "tool"
+    ]
+  },
+  {
+    "title": "Minecraft Mining Trip Checklist",
+    "description": "Prepare tools, food, storage space and navigation for a mining trip.",
+    "url": "/games/minecraft/mining-trip-checklist/",
+    "tags": [
+      "minecraft",
+      "mining",
+      "checklist",
+      "survival"
+    ]
+  },
+  {
+    "title": "Minecraft Building Project Planner",
+    "description": "Plan scope, materials, phases and storage for a Minecraft building project.",
+    "url": "/games/minecraft/building-project-planner/",
+    "tags": [
+      "minecraft",
+      "building",
+      "project",
+      "planner"
+    ]
+  },
+  {
+    "title": "Fortnite Fight Selection Guide",
+    "description": "Evaluate position, resources, information and risk before committing to fights.",
+    "url": "/games/fortnite/fight-selection-guide/",
+    "tags": [
+      "fortnite",
+      "fight selection",
+      "strategy",
+      "guide"
+    ]
+  },
+  {
+    "title": "Fortnite Rotation Planning Guide",
+    "description": "Plan rotations around timing, terrain, cover and mobility.",
+    "url": "/games/fortnite/rotation-planning-guide/",
+    "tags": [
+      "fortnite",
+      "rotation",
+      "mobility",
+      "guide"
+    ]
+  },
+  {
+    "title": "Roblox Grind Efficiency Guide",
+    "description": "Improve grind efficiency by tracking bottlenecks, travel time and upgrade return.",
+    "url": "/games/roblox/grind-efficiency-guide/",
+    "tags": [
+      "roblox",
+      "grind",
+      "efficiency",
+      "progression"
+    ]
+  },
+  {
+    "title": "Roblox New Area Preparation Guide",
+    "description": "Prepare currency, upgrades and inventory before entering a new progression tier.",
+    "url": "/games/roblox/new-area-preparation-guide/",
+    "tags": [
+      "roblox",
+      "new area",
+      "progression",
+      "guide"
+    ]
+  },
+  {
+    "title": "Elden Ring Weapon Upgrade Planning Guide",
+    "description": "Focus upgrade resources on weapons you actually use and maintain a practical backup.",
+    "url": "/games/elden-ring/weapon-upgrade-planning/",
+    "tags": [
+      "elden ring",
+      "weapon",
+      "upgrade",
+      "guide"
+    ]
+  },
+  {
+    "title": "Elden Ring Exploration Checklist",
+    "description": "Use routes, resources and map awareness to make exploration safer and more efficient.",
+    "url": "/games/elden-ring/exploration-checklist/",
+    "tags": [
+      "elden ring",
+      "exploration",
+      "checklist",
+      "guide"
+    ]
+  },
+  {
+    "title": "Genshin Impact Second Team Planning Guide",
+    "description": "Plan a second team without weakening the first or spreading resources too thin.",
+    "url": "/games/genshin-impact/second-team-planning-guide/",
+    "tags": [
+      "genshin impact",
+      "second team",
+      "team",
+      "guide"
+    ]
+  },
+  {
+    "title": "Genshin Impact Farming Session Planner",
+    "description": "Plan farming around one account bottleneck instead of unrelated goals.",
+    "url": "/games/genshin-impact/farming-session-planner/",
+    "tags": [
+      "genshin impact",
+      "farming",
+      "planner",
+      "resources"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Party Resource Planning Guide",
+    "description": "Balance limited abilities, recovery and encounter difficulty across a party.",
+    "url": "/games/baldurs-gate-3/party-resource-planning/",
+    "tags": [
+      "baldur's gate 3",
+      "party",
+      "resources",
+      "guide"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Exploration Planning Guide",
+    "description": "Plan exploration around dialogue, utility, routes and party coverage.",
+    "url": "/games/baldurs-gate-3/exploration-planning-guide/",
+    "tags": [
+      "baldur's gate 3",
+      "exploration",
+      "planning",
+      "guide"
+    ]
   }
 ]
