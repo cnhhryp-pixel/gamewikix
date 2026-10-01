@@ -688,5 +688,29 @@
       "skills",
       "reference"
     ]
+  },
+  {
+    "title": "Team Role Coverage Checker",
+    "description": "Check whether a party or squad covers damage, control, sustain, mobility, utility and exploration roles.",
+    "url": "/tools/team-role-coverage/",
+    "tags": [
+      "team",
+      "party",
+      "roles",
+      "checker",
+      "tool"
+    ]
+  },
+  {
+    "title": "Game Session Planner",
+    "description": "Create a simple gaming session plan with one main objective and a time budget.",
+    "url": "/tools/session-planner/",
+    "tags": [
+      "game",
+      "session",
+      "planner",
+      "goal",
+      "tool"
+    ]
   }
 ]
