@@ -878,5 +878,170 @@
       "planning",
       "guide"
     ]
+  },
+  {
+    "title": "Blox Fruits Wiki & Guides",
+    "description": "Blox Fruits beginner progression, sword and fruit planning, boss preparation and exploration guidance.",
+    "url": "/games/roblox/blox-fruits/",
+    "tags": [
+      "roblox",
+      "blox fruits",
+      "wiki",
+      "guide"
+    ]
+  },
+  {
+    "title": "Blox Fruits Beginner Guide",
+    "description": "A beginner-friendly Blox Fruits guide for early progression, resources, weapons and safer growth.",
+    "url": "/games/roblox/blox-fruits/beginner-guide/",
+    "tags": [
+      "blox fruits",
+      "beginner",
+      "roblox",
+      "guide"
+    ]
+  },
+  {
+    "title": "Blox Fruits Progression Planning",
+    "description": "Plan Blox Fruits progression around one clear goal instead of spreading resources across too many upgrades.",
+    "url": "/games/roblox/blox-fruits/progression-planning/",
+    "tags": [
+      "blox fruits",
+      "progression",
+      "roblox",
+      "planning"
+    ]
+  },
+  {
+    "title": "RIVALS Wiki & Guides",
+    "description": "Roblox RIVALS beginner combat, duels, aim practice and match-planning guides.",
+    "url": "/games/roblox/rivals/",
+    "tags": [
+      "roblox",
+      "rivals",
+      "fps",
+      "guide"
+    ]
+  },
+  {
+    "title": "RIVALS Beginner Guide",
+    "description": "A beginner guide to Roblox RIVALS covering aim, movement, cover and duel fundamentals.",
+    "url": "/games/roblox/rivals/beginner-guide/",
+    "tags": [
+      "rivals",
+      "beginner",
+      "roblox",
+      "fps"
+    ]
+  },
+  {
+    "title": "RIVALS Aim & Duel Practice",
+    "description": "A Roblox RIVALS practice routine for aim consistency, peeking, movement and learning from duels.",
+    "url": "/games/roblox/rivals/aim-duel-practice/",
+    "tags": [
+      "rivals",
+      "aim",
+      "duel",
+      "practice"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest Wiki & Guides",
+    "description": "99 Nights in the Forest survival, camp planning and beginner preparation guides.",
+    "url": "/games/roblox/99-nights-in-the-forest/",
+    "tags": [
+      "roblox",
+      "99 nights in the forest",
+      "survival",
+      "guide"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest Beginner Guide",
+    "description": "A beginner guide to 99 Nights in the Forest focused on survival priorities, team roles and preparation.",
+    "url": "/games/roblox/99-nights-in-the-forest/beginner-guide/",
+    "tags": [
+      "99 nights in the forest",
+      "beginner",
+      "survival",
+      "roblox"
+    ]
+  },
+  {
+    "title": "99 Nights in the Forest Camp Planning",
+    "description": "Plan a practical camp in 99 Nights in the Forest around safety, supplies and team workflows.",
+    "url": "/games/roblox/99-nights-in-the-forest/camp-planning/",
+    "tags": [
+      "99 nights in the forest",
+      "camp",
+      "planning",
+      "roblox"
+    ]
+  },
+  {
+    "title": "Minecraft Villagers & Trading Overview",
+    "description": "Minecraft villagers, professions, trade value and long-term village planning.",
+    "url": "/games/minecraft/villagers-trading/",
+    "tags": [
+      "minecraft",
+      "villagers",
+      "trading",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Ores & Mining Overview",
+    "description": "Minecraft ores and mining preparation, tool choice and efficient resource collection.",
+    "url": "/games/minecraft/ores-mining/",
+    "tags": [
+      "minecraft",
+      "ores",
+      "mining",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Redstone Basics Overview",
+    "description": "Minecraft redstone basics: inputs, logic, outputs and beginner automation thinking.",
+    "url": "/games/minecraft/redstone-basics/",
+    "tags": [
+      "minecraft",
+      "redstone",
+      "automation",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Farming Systems Overview",
+    "description": "Minecraft farming systems for food, renewable materials, storage and survival scaling.",
+    "url": "/games/minecraft/farming-systems/",
+    "tags": [
+      "minecraft",
+      "farming",
+      "farms",
+      "reference"
+    ]
+  },
+  {
+    "title": "Minecraft Nether Preparation Guide",
+    "description": "Minecraft Nether preparation for supplies, route safety, navigation and return planning.",
+    "url": "/games/minecraft/nether-preparation/",
+    "tags": [
+      "minecraft",
+      "nether",
+      "preparation",
+      "guide"
+    ]
+  },
+  {
+    "title": "Minecraft Armor Overview",
+    "description": "Minecraft armor reference for protection, durability and enchantment priorities.",
+    "url": "/games/minecraft/armor-overview/",
+    "tags": [
+      "minecraft",
+      "armor",
+      "enchantments",
+      "reference"
+    ]
   }
 ]
