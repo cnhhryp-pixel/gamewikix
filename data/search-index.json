@@ -218,5 +218,181 @@
       "loadout",
       "tool"
     ]
+  },
+  {
+    "title": "Minecraft Base Planning Guide",
+    "description": "Plan a practical survival base around storage, crafting, food, safety and future expansion.",
+    "url": "/games/minecraft/base-planning-guide/",
+    "tags": [
+      "minecraft",
+      "base",
+      "planning",
+      "survival"
+    ]
+  },
+  {
+    "title": "Minecraft Inventory Organization Guide",
+    "description": "Organize survival inventories and storage rooms around real player workflows.",
+    "url": "/games/minecraft/inventory-organization-guide/",
+    "tags": [
+      "minecraft",
+      "inventory",
+      "storage",
+      "organization"
+    ]
+  },
+  {
+    "title": "Minecraft Exploration Preparation Checklist",
+    "description": "Prepare food, tools, space and navigation for safer exploration trips.",
+    "url": "/games/minecraft/exploration-preparation-checklist/",
+    "tags": [
+      "minecraft",
+      "exploration",
+      "checklist",
+      "survival"
+    ]
+  },
+  {
+    "title": "Fortnite Positioning Guide",
+    "description": "Use cover, angles and escape routes to improve fight quality.",
+    "url": "/games/fortnite/positioning-guide/",
+    "tags": [
+      "fortnite",
+      "positioning",
+      "cover",
+      "rotation"
+    ]
+  },
+  {
+    "title": "Fortnite Match Review Checklist",
+    "description": "Learn from positioning, fight selection, resources and mechanical mistakes.",
+    "url": "/games/fortnite/match-review-checklist/",
+    "tags": [
+      "fortnite",
+      "review",
+      "practice",
+      "improve"
+    ]
+  },
+  {
+    "title": "Fortnite Inventory Management Guide",
+    "description": "Assign clear combat, recovery and utility roles to inventory slots.",
+    "url": "/games/fortnite/inventory-management-guide/",
+    "tags": [
+      "fortnite",
+      "inventory",
+      "loadout",
+      "healing"
+    ]
+  },
+  {
+    "title": "Roblox New Experience Checklist",
+    "description": "Understand a new Roblox experience by finding its loop, currencies and progression.",
+    "url": "/games/roblox/new-experience-checklist/",
+    "tags": [
+      "roblox",
+      "beginner",
+      "experience",
+      "checklist"
+    ]
+  },
+  {
+    "title": "Roblox Currency Spending Guide",
+    "description": "Decide when to save, upgrade or spend currencies in progression games.",
+    "url": "/games/roblox/currency-spending-guide/",
+    "tags": [
+      "roblox",
+      "currency",
+      "spending",
+      "progression"
+    ]
+  },
+  {
+    "title": "Roblox Upgrade Priority Guide",
+    "description": "Prioritize upgrades by fixing the biggest bottleneck in the core gameplay loop.",
+    "url": "/games/roblox/upgrade-priority-guide/",
+    "tags": [
+      "roblox",
+      "upgrade",
+      "priority",
+      "progression"
+    ]
+  },
+  {
+    "title": "Elden Ring Stat Allocation Guide",
+    "description": "Allocate stats around requirements, survivability and a focused build plan.",
+    "url": "/games/elden-ring/stat-allocation-guide/",
+    "tags": [
+      "elden ring",
+      "stats",
+      "build",
+      "allocation"
+    ]
+  },
+  {
+    "title": "Genshin Impact Team Building Framework",
+    "description": "Build teams around roles, reactions, energy, buffs and sustain.",
+    "url": "/games/genshin-impact/team-building-framework/",
+    "tags": [
+      "genshin impact",
+      "team",
+      "build",
+      "reactions"
+    ]
+  },
+  {
+    "title": "Genshin Impact Resource Priority Guide",
+    "description": "Decide what to farm first by fixing the biggest roster bottleneck.",
+    "url": "/games/genshin-impact/resource-priority-guide/",
+    "tags": [
+      "genshin impact",
+      "resources",
+      "farming",
+      "priority"
+    ]
+  },
+  {
+    "title": "Genshin Impact Account Progression Checklist",
+    "description": "Build a stable roster without spreading account resources too thin.",
+    "url": "/games/genshin-impact/account-progression-checklist/",
+    "tags": [
+      "genshin impact",
+      "account",
+      "progression",
+      "checklist"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Party Composition Guide",
+    "description": "Build parties around damage, control, support and exploration capabilities.",
+    "url": "/games/baldurs-gate-3/party-composition-guide/",
+    "tags": [
+      "baldur's gate 3",
+      "party",
+      "composition",
+      "build"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 New Player Checklist",
+    "description": "A spoiler-light checklist for learning combat, resources and exploration.",
+    "url": "/games/baldurs-gate-3/new-player-checklist/",
+    "tags": [
+      "baldur's gate 3",
+      "beginner",
+      "checklist",
+      "guide"
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3 Combat Preparation Guide",
+    "description": "Prepare positioning, resources and fallback plans before difficult encounters.",
+    "url": "/games/baldurs-gate-3/combat-preparation-guide/",
+    "tags": [
+      "baldur's gate 3",
+      "combat",
+      "preparation",
+      "guide"
+    ]
   }
 ]
